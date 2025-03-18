@@ -5,7 +5,7 @@
     "image": "",
     "email": "andrewpetravicius1@gmail.com",
     "phone": "(630)-442-2815",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "ENTER WHATEVER THIS URL IS HERE",
     "summary": "yadda yaddda",
 
     "profiles": [
@@ -42,14 +42,34 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "IIT UFarm",
+      "location": "Chicago, Illinois",
+      "position": "Events Organizer",
+      "url": "https://www.instagram.com/iitufarm/",
+      "startDate": "Aug 2021",
+      "endDate": "July 2023",
+      "summary": "Events organizer for Illinois Tech's UFarm which promotes sustainable agriculture in the city of Chicago",
+      "highlights": [""]
+    },
+    {
+      "organization": "Phi Kappa Sigma",
+      "location": "Chicago, Illinois",
+      "position": "Phi/Events Organizer",
+      "url": "https://www.instagram.com/iitufarm/",
+      "startDate": "July 2021",
+      "endDate": "July 2022",
+      "summary": "Events organizer for the Alpha Epsilon chapter of Phi Kappa Sigma, with a focus on creating a unified Greek life on campus",
+      "highlights": [""]
+    },
+    {
+      "organization": "Chicago Marathon",
+      "location": "Chicago, Illinois",
+      "position": "Event Helper",
+      "url": "https://www.chicagomarathon.com/",
+      "startDate": "Sept 2024",
+      "endDate": "Oct 2024",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
@@ -76,11 +96,10 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Dean's List",
+      "date": "2019-2023",
+      "awarder": "Illinois Institute of Technology",
+      "url": "https://www.iit.edu/"
     }
   ],
   "certificates": [
@@ -167,13 +186,8 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Native",
       "icon": ""
     }
   ],
