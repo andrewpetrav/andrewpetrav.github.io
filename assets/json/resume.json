@@ -1,7 +1,7 @@
 {
-  "basics": {
+  "General": {
     "name": "Andrew Petravicius",
-    "label": "Scientist",
+    "label": "Data Scientist | Computer Scientist | Website Developer",
     "image": "",
     "email": "andrewpetravicius1@gmail.com",
     "phone": "(630)-442-2815",
@@ -35,6 +35,22 @@
       "name": "Freelance Website Developer",
       "startDate": "Oct 2024",
       "endDate": "Present",
+      "summary": "yadda yadda",
+      "highlights": ["yadda","yadda"]
+    },
+    {
+      "name": "Jewel Osco",
+      "position": "MFC Order Fulfiller",
+      "startDate": "Apr 2022",
+      "endDate": "Oct 2022",
+      "summary": "yadda yadda",
+      "highlights": ["yadda","yadda"]
+    },
+    {
+      "name": "AMC Theaters",
+      "position": "Busser/Customer Services",
+      "startDate": "May 2017",
+      "endDate": "July 2019",
       "summary": "yadda yadda",
       "highlights": ["yadda","yadda"]
     }
